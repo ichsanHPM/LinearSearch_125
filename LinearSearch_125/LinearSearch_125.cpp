@@ -50,8 +50,9 @@ void linearsearch()
                 break;
             }
         }
-        if (i == n)
+        if (i == n)                                                 //langkah no 5 algoritma
             cout << "\n" << item << "not found in the array\n";
+        cout << "\nnumber of comparisons: ";
     }
 }
 
