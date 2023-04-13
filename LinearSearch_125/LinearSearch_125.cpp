@@ -32,6 +32,16 @@ void linearsearch()
 {
     char ch;
     int ctr;                //number of comparisons
+
+    do
+    {
+        //accept the number to be searched
+        cout << "\nenter the element you want to search: ";         //langkah no 1 algoritma
+        int item;
+        cin >> item;
+
+        
+    }
 }
 
 
